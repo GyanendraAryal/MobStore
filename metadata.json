@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Mobile Store",
+  "description": "A modern, responsive mobile phone store frontend built with React and Tailwind CSS, featuring WhatsApp integration for purchases. This app demonstrates a clean UI for product listings and a direct-to-chat purchasing flow.",
+  "requestFramePermissions": []
+}
